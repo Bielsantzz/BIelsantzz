@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= https://wallpaperaccess.com/full/4910984.gif alt= "cyberpunk"  width="600"/>
+  <img src= https://wallpaperaccess.com/full/4910984.gif alt= "cyberpunk"  width="800"/>
 </p>
 
 
@@ -47,7 +47,7 @@ I'm a person who really enjoys doing various types of activities, but my favorit
 </p>
 
 <hr>
-social media
+<h3> 📸social media </h3>
 
 <div style="display: flex; gap: 12px; align-items: center; justify-content: center; margin-top: 20px;">
   
