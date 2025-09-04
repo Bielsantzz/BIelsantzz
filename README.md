@@ -12,7 +12,6 @@ Welcome to my Profile! (⌐■_■)👍
 <ul>
   <li> tenho 19 anos</li>
   <li> Moro em Campinas Sp📌</li>
-  <li> tenho 19 anos</li>
-  <li> tenho 19 anos</li>
-  <li> tenho 19 anos</li>
+  <li> Cursando Desenvolvimento de Sistemas no Senai Roberto Mange 👨‍🎓</li>
+  <li> Sou da turma Digital Solutions 19 pela Bosch 💪🎲</li>
 </ul>
