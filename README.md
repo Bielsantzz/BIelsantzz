@@ -59,4 +59,12 @@ I'm a person who really enjoys doing various types of activities, but my favorit
   </a>
 </div>
 
+<hr>
+<h2> thanks for visiting my profile, see you later😆</h2>
+
+
+
+  <p align="center">
+        <img src="https://i.pinimg.com/originals/dc/e0/39/dce03946deb067b6c711defdc082ec6c.gif" width="505"/>
+  </p>
 
