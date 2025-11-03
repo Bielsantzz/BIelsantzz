@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= https://i.pinimg.com/originals/42/45/54/42455498933d57e8af7156813472d0fa.gif   alt= "gif"  width="800"/>
+  <img src=  https://i.pinimg.com/originals/24/ce/31/24ce311ee6301fdafe2598e51214429f.gif  width="800"/>
 </p>
 
 
@@ -65,5 +65,6 @@ I'm a person who really enjoys doing various types of activities, but my favorit
 
   <p align="center">
         <img src="https://i.pinimg.com/originals/dc/e0/39/dce03946deb067b6c711defdc082ec6c.gif" width="505"/>
+      
   </p>
 
