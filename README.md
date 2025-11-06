@@ -63,8 +63,8 @@ I'm a person who really enjoys doing various types of activities, but my favorit
 
 
 
-  <p align="center">
-        <img src="https://i.pinimg.com/originals/dc/e0/39/dce03946deb067b6c711defdc082ec6c.gif" width="505"/>
+  <p>
+        <img src="https://i.pinimg.com/originals/70/ee/1c/70ee1c0f33a37223858486fbf45cd39d.gif" width="300"/>
       
   </p>
 
