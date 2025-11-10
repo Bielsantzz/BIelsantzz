@@ -64,7 +64,7 @@ I'm a person who really enjoys doing various types of activities, but my favorit
 
 
   <p>
-        <img src="https://i.pinimg.com/originals/70/ee/1c/70ee1c0f33a37223858486fbf45cd39d.gif" width="300"/>
+        <img src=https://i.pinimg.com/originals/4e/06/38/4e0638b20ca3e166762455774fef5f16.gif width="500"/>
       
   </p>
 
