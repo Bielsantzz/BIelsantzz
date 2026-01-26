@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://media.tenor.com/8VuZc8I8f7EAAAAj/oiia-cat.gif width="350"/>
+  <img src=https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXpmeGE2ZHJ0MGU4YWNjYnRjZm80ZzNhcm9zMHBnNXYzMTNta3I2ciZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/2ya7xLyEeynlZM4FCw/giphy.gif width="800"/>
 
 </p>
 
@@ -32,6 +32,11 @@ I'm a person who really enjoys doing various types of activities, but my favorit
 </ul>
 
 <h3> As a person, I really enjoy exploring new things and trying to improve at them</h3>
+
+<p align="center">
+  <img src=https://media.tenor.com/8VuZc8I8f7EAAAAj/oiia-cat.gif width="350"/>
+
+</p>
 
 </main>
 
