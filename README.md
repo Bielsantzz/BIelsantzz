@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gifsec.com/wp-content/uploads/2022/09/demon-slayer-gif-32.gif" width="700"/>
+  <img src=https://media.tenor.com/8VuZc8I8f7EAAAAj/oiia-cat.gif width="350"/>
 
 </p>
 
