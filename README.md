@@ -7,7 +7,6 @@
 
 <h1>Welcome to my Profile! (⌐■_■)👍</h1>
 
-<h2>Hey, how's it going? My name is Gabriel Henrique and I'm going to tell you a little about myself!!</h2>
 
 
 
