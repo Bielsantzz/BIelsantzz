@@ -15,7 +15,7 @@
   <li> I'm 19 years old</li>
   <li> I live in Campinas, SP📌</li>
   <li> Studying Systems Development at Senai Roberto Mange 👨‍🎓</li>
-  <li> I'm in the Digital Solutions 19 class from Bosch 💪🎲</li>
+  <li> Apprentice in Digital Solutions at Bosch 💪🎲</li>
 </ul>
 
 <hr>
