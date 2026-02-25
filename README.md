@@ -48,6 +48,7 @@ I'm a person who really enjoys doing various types of activities, but my favorit
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-figma-logo-icon-svg-download-png-2944870.png?f=webp" width="50"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png" width="50"/>
 </p>
 
 <hr>
