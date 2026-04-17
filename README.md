@@ -18,19 +18,7 @@
 </ul>
 
 <hr>
-<h2> My hobbies</h2>
 
-
-I'm a person who really enjoys doing various types of activities, but my favorites are:
-<ul>
-<li> Playing games (any kind of game)</li>
-<li> I really enjoy taking care of my body</li>
-<li> Drawing</li>
-<li> Watching movies and TV shows</li>
-<li> I also really enjoy spending time outdoors</li>
-</ul>
-
-<h3> As a person, I really enjoy exploring new things and trying to improve at them</h3>
 
 <p align="center">
   <img src=https://media.tenor.com/8VuZc8I8f7EAAAAj/oiia-cat.gif width="350"/>
