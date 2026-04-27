@@ -11,7 +11,7 @@
 
 
 <ul>
-  <li> I'm 19 years old</li>
+  <li> I'm 20 years old</li>
   <li> I live in Campinas, SP📌</li>
   <li> Studying Systems Development at Senai Roberto Mange 👨‍🎓</li>
   <li> Apprentice in Digital Solutions at Bosch 💪🎲</li>
