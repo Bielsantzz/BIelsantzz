@@ -105,7 +105,7 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/gabriel-santos-9725a2398" target="_blank">
+  <a href=" https://www.linkedin.com/in/gabriel-santos-9725a2398?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
