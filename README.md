@@ -55,3 +55,61 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+<h3 align="center">🚀 Meus Principais Projetos</h3>
+<br>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse: separate; border-spacing: 15px 15px;">
+  <tr>
+    <!-- Projeto 1: The Last of Us (JS) -->
+    <td align="center" width="50%" style="background-color: #161b22; border-radius: 15px; border: 1px solid #30363d; padding: 20px; vertical-align: top;">
+      <h4 style="color: #38BDF8; margin-top: 0;">🎮 The Last of Us (Game)</h4>
+      <p style="font-size: 13px; color: #c9d1d9; line-height: 1.5;">
+        Um jogo web inspirado em The Last of Us, desenvolvido inteiramente utilizando JavaScript para trazer mecânicas e temática do universo do jogo.
+      </p>
+      <img src="https://skillicons.dev/icons?i=javascript,html,css" alt="Techs" style="margin-bottom: 15px;" />
+      <br>
+      <a href="https://github.com/Bielsantzz/The-last-of-us" target="_blank">
+        <img src="https://img.shields.io/badge/Repositório-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Repositório" />
+      </a>
+    </td>
+    <!-- Projeto 2: Ecossistema App de Animes + API -->
+    <td align="center" width="50%" style="background-color: #161b22; border-radius: 15px; border: 1px solid #30363d; padding: 20px; vertical-align: top;">
+      <h4 style="color: #38BDF8; margin-top: 0;">📱 App de Animes & API</h4>
+      <p style="font-size: 13px; color: #c9d1d9; line-height: 1.5;">
+        Aplicativo mobile em Flutter/Dart integrado com sua respectiva API backend para gerenciar e fornecer todos os dados de animes.
+      </p>
+      <img src="https://skillicons.dev/icons?i=flutter,java,csharp" alt="Techs" style="margin-bottom: 15px;" />
+      <br>
+      <div style="display: flex; justify-content: center; gap: 10px;">
+        <a href="https://github.com/Bielsantzz/App_Animes" target="_blank">
+          <img src="https://img.shields.io/badge/App%20(Flutter)-%23121011.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="App" />
+        </a>
+        <a href="https://github.com/Bielsantzz/api_avaliacao2" target="_blank">
+          <img src="https://img.shields.io/badge/API%20Backend-%23121011.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="API" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="center">📫 Conecte-se comigo</h3>
+<br>
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="www.linkedin.com/in/gabriel-santos-9725a2398" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- E-mail -->
+  <a href="mailto:gbielhenrique0696@gmail.cpm">
+    <img src="https://img.shields.io/badge/E--mail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  &nbsp;&nbsp;
+  
+</p>
