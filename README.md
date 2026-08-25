@@ -21,7 +21,7 @@
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnubisDark/AnubisDark/master/assets/git.gif" width="300" alt="GIF Sobre mim"/>
+  <img src="./gengar.gif" width="500" alt="Gengar GIF"/>
 </p>
 
 <br>
@@ -116,3 +116,17 @@
   &nbsp;&nbsp;
   
 </p>
+
+<hr>
+
+<br>
+
+<p align="center">
+  <h3 align="center">Obrigado por visitar o meu perfil! 👋🚀</h3>
+</p>
+
+<p align="center">
+  <img src= "https://64.media.tumblr.com/26365705e34435050bfcdef4310adb9c/tumblr_mw5v1tojBY1rt6u7do1_r1_500.gif" width="400"/>
+</p>
+
+
