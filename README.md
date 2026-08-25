@@ -20,7 +20,10 @@
   </tr>
 </table>
 
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnubisDark/AnubisDark/master/assets/git.gif" width="300" alt="GIF Sobre mim"/>
+</p>
+
 <br>
 
 <h3 align="center">🛠️ Tech Stack & Ferramentas</h3>
